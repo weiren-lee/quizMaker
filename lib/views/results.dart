@@ -31,7 +31,7 @@ class _ResultsState extends State<Results> {
                     Navigator.pop(context);
                   },
                   child: blueButton(context, "Go to Home"),
-            ],
+              )],
           ),
         ),
       ),
